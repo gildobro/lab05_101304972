@@ -1,5 +1,5 @@
 import {Customer} from './customer'
 
-let customer = new Customer("Bayla Eliana", "Perelman", 21);
+let customer = new Customer("John", "Smith", 21);
 customer.greeter();
 customer.getAge();
